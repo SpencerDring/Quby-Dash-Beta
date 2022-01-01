@@ -6,4 +6,4 @@ Thanks,
 The Quby Dash! Team
 
 # Requisites
-Unity, Windows 10 x64, Intel Core i3, 1GB of ram and DirectX 10
+Unity, Windows 10/11 x64 or ARM64, Intel Core i3, 4GB of ram and DirectX 10
